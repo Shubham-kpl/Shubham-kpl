@@ -13,7 +13,7 @@
 - 😄 Pronouns: Sumi
 - ⚡ Fun fact: While I'm not coding. I'm.... well, not coding!
 
-### Languages/Frameworks that I use: 
+### Tech that I use: 
 <div align="center">
   <!--<img src="https://skillicons.dev/icons?i=mongodb" height="25" alt="mongodb logo"  />
   <img width="9" />
