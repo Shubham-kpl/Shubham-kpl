@@ -1,5 +1,9 @@
 <!-- ![Visitor Count](https://shields.io/badge/dynamic/json?color=informational&label=Visitors&query=value&url=https://api.countapi.xyz/hit/Shubham-kpl/Shubham-kpl) -->
 
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+</style>
+
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shubham+Kandpal!;" />
 
@@ -8,13 +12,14 @@
 <!-- **Shubham-kpl/Shubham-kpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Here are some ideas to get you started: -->
-
-###- 🔭 I’m currently working on web development and competitive programming...
-###- 🌱 I’m currently learning react, javascript and dsa...
-###- 💬 Ask me about C++, javascript
-###- 📫 How to reach me: +91-9193560650/codewithsk27@gmail.com
-###- 😄 Pronouns: Sumi
-###- ⚡ Fun fact: While I'm not coding. I'm.... well, not coding!
+<ul style="font-family: 'Roboto', sans-serif">
+<li> 🔭 I’m currently working on web development and competitive programming...</li>
+<li> 🌱 I’m currently learning react, javascript and dsa...</li>
+<li> 💬 Ask me about C++, javascript</li>
+<li> 📫 How to reach me: +91-9193560650/codewithsk27@gmail.com</li>
+<li> 😄 Pronouns: Sumi</li>
+<li> ⚡ Fun fact: While I'm not coding. I'm.... well, not coding!</li>
+</ul>
 
 <!-- <h3 align="center">A passionate software developer and tech Blog writer from India</h3>
 
