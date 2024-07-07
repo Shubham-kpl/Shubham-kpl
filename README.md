@@ -1,43 +1,15 @@
 <!-- ![Visitor Count](https://shields.io/badge/dynamic/json?color=informational&label=Visitors&query=value&url=https://api.countapi.xyz/hit/Shubham-kpl/Shubham-kpl) -->
 
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
-</style>
-
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shubham+Kandpal!;" />
-
 </h1>
 
-<!-- **Shubham-kpl/Shubham-kpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-<!-- Here are some ideas to get you started: -->
-<ul style="font-family: 'Roboto', sans-serif">
-<li> 🔭 I’m currently working on web development and competitive programming...</li>
-<li> 🌱 I’m currently learning react, javascript and dsa...</li>
-<li> 💬 Ask me about C++, javascript</li>
-<li> 📫 How to reach me: +91-9193560650/codewithsk27@gmail.com</li>
-<li> 😄 Pronouns: Sumi</li>
-<li> ⚡ Fun fact: While I'm not coding. I'm.... well, not coding!</li>
-</ul>
-
-<!-- <h3 align="center">A passionate software developer and tech Blog writer from India</h3>
-
-<br/> -->
-
-<!-- <div align="center">
-
- 🔭 I’m currently working on **a Nexjs Projects**
-
- 🌱 I’m currently learning **C++,Typescript and Java**
-
-📚 Write's Blogs at **[Dev.to](https://dev.to/random_ti)** and **[Hashnode](https://mdtaquiimam.hashnode.dev/)**
-
-💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/Shubham-kpl/Shubham-kpl/issues)**
-
-⚡ Fun fact **World first developer was a women**
-
- </div> -->
+<h3> 🔭 I’m currently working on web development and competitive programming...</h3>
+<h3> 🌱 I’m currently learning react, javascript and dsa...</h3>
+<h3> 💬 Ask me about C++, javascript</h3>
+<h3> 📫 How to reach me: +91-9193560650/codewithsk27@gmail.com</h3>
+<h3> 😄 Pronouns: Sumi</h3>
+<h3> ⚡ Fun fact: While I'm not coding. I'm.... well, not coding!</h3>
 
 <div align="center"> 
   <a href="mailto:mdtaqui.jhar@gmail.com">
@@ -68,9 +40,6 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align="center">
-<img  src="https://raw.githubusercontent.com/Shubham-kpl/Shubham-kpl/output/github-contribution-grid-snake.svg" alt="contribution graph" />
-</div>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Shubham-kpl&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
@@ -82,10 +51,6 @@
 <br/><br/>
 
 <hr/>
-
-<!-- <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
-</h3> -->
 
 <br/>
 <hr/>
