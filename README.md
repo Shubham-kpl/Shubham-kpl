@@ -9,7 +9,7 @@
 <h3> 🔭 I’m currently working on web development and competitive programming...</h3>
 <h3> 🌱 I’m currently learning react, javascript and dsa...</h3>
 <h3> 💬 Ask me about C++, javascript</h3>
-<h3> 📫 How to reach me: +91-9193560650/codewithsk27@gmail.com</h3>
+<h3> 📫 How to reach me: +91-9193560650</h3>
 <h3> 😄 Pronouns: Sumi</h3>
 <h3> ⚡ Fun fact: While I'm not coding. I'm.... well, not coding!</h3>
 
