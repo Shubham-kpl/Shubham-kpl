@@ -17,10 +17,10 @@
   <a href="mailto:codewithsk27@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-      <a href="https://twitter.com/Taquiimam14" target="_blank">
+      <a href="https://twitter.com/explorewithsk27" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
   </a>
-  <a href="www.linkedin.com/in/shubham-kandpal-59870322a" target="_blank">
+  <a href="https://www.linkedin.com/in/shubham-kandpal-59870322a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <!-- <a href="https://tinyurl.com/MdTaquiImam" target="_blank">
