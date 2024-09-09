@@ -1,10 +1,13 @@
 <!-- Original Readme.md credit https://github.com/taqui-786/ -->
 
-<!-- ![Visitor Count](https://shields.io/badge/dynamic/json?color=informational&label=Visitors&query=value&url=https://api.countapi.xyz/hit/Shubham-kpl/Shubham-kpl) -->
-
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shubham+Kandpal!;" />
 </h1>
+
+<div align="center" style="margin:50px">
+  <img src="https://komarev.com/ghpvc/?username=Shubham-kpl&style=flat-square&color=blue" alt="Profile Views" />
+</div>
+
 
 <h3> 🔭 I’m currently working on web development and competitive programming...</h3>
 <h3> 🌱 I’m currently learning react, javascript and dsa...</h3>
