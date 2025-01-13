@@ -8,12 +8,10 @@
   <img src="https://komarev.com/ghpvc/?username=Shubham-kpl&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
-
-<h3> 🔭 I’m currently working on web development and competitive programming...</h3>
-<h3> 🌱 I’m currently learning react, javascript and dsa...</h3>
-<h3> 💬 Ask me about C++, javascript</h3>
+<h3> 🌱 Competitive programmer at Codeforces </h3>
+<h3> 🌱 I’m currently reading _The Modern Approach: Russell & Norvig_ </h3>
+<h3> 🌱 Pursuing computer engineering to do something _of actual worth_ </h3>
 <h3> 📫 How to reach me: +91-9193560650</h3>
-<h3> 😄 Pronouns: Sumi</h3>
 <h3> ⚡ Fun fact: While I'm not coding. I'm.... well, not coding!</h3>
 
 <div align="center"> 
