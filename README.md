@@ -12,7 +12,7 @@
 <h3> 🌱 Competitive programmer at Codeforces </h3>
 <h3> 🤖 I’m currently reading <i>The Modern Approach: Russell & Norvig</i> </h3>
 <h3> 😊 Pursuing computer engineering to do <i>something of actual worth</i> </h3>
-<h3> 🤙 Reach me at: <i>codewithsk27@gmail.com</i>i></h3>
+<h3> 🤙 Reach me at: <i>codewithsk27@gmail.com</i></h3>
 
  <hr/>
  
