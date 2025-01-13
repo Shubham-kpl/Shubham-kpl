@@ -12,7 +12,6 @@
 <h3> 🌱 Competitive programmer at Codeforces </h3>
 <h3> 🤖 I’m currently reading <i>The Modern Approach: Russell & Norvig</i> </h3>
 <h3> 😊 Pursuing computer engineering to do <i>something of actual worth</i> </h3>
-<h3> 📫 How to reach me: +91-9193560650</h3>
 
 <div align="center"> 
   <a href="mailto:codewithsk27@gmail.com" target="_blank">
