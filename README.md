@@ -16,6 +16,7 @@
 
  <hr/>
  
+<br/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -25,27 +26,20 @@
 </div>
 
 <br/>
+<br/>
 <hr/>
 
+<br/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Shubham-kpl&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Shubham-kpl&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <div><img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Shubham-kpl&count_private=true&theme=react&border_radius=10" alt="streak stats"/></div></br>
+  <div><img width=390 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Shubham-kpl&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /></div></br>
+  <div><img width=390 src="https://github-readme-stats-mu-dusky.vercel.app/api?username=Shubham-kpl&show_icons=true&theme=radical&count_private=true&include_all_commits=true&border_radius=10"  alt="Github Stats" /></div>
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Shubham-kpl&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
-<br/><br/>
-
-<hr/>
-
 <br/>
 <hr/>
-<br/>
 
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=50&center=true&vCenter=true&random=false&width=30&height=24&lines=%F0%9F%92%AB" alt="Typing SVG" /> Github Stats:
-
-<div align="center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=Shubham-kpl&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center" alt="Github Stats" /></div>
