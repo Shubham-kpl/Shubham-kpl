@@ -1,7 +1,7 @@
 <!-- Original Readme.md credit https://github.com/taqui-786/ -->
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shubham+Kandpal!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Shubham+Kandpal!;" />
 </h1>
 
 <div align="center" style="margin:50px">
@@ -12,7 +12,7 @@
 <h3> 🤖 I’m currently reading <i>The Modern Approach: Russell & Norvig</i> </h3>
 <h3> 😊 Pursuing computer engineering to do <i>something of actual worth</i> </h3>
 <h3> 📫 How to reach me: +91-9193560650</h3>
-<h3> ⚡ Fun fact: While I'm not coding. I'm.... well, not coding!</h3>
+<h3> 😎 Call me: Kandpal Ji</h3>
 
 <div align="center"> 
   <a href="mailto:codewithsk27@gmail.com" target="_blank">
