@@ -12,7 +12,7 @@
 <h3> 🤖 I’m currently reading <i>The Modern Approach: Russell & Norvig</i> </h3>
 <h3> 😊 Pursuing computer engineering to do <i>something of actual worth</i> </h3>
 <h3> 📫 How to reach me: +91-9193560650</h3>
-<h2> 😎 Call me: Kandpal Ji </h2>
+<h3> 😎 Call me Kandpal Ji </h3>
 
 <div align="center"> 
   <a href="mailto:codewithsk27@gmail.com" target="_blank">
