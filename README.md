@@ -9,8 +9,8 @@
 </div>
 
 <h3> 🌱 Competitive programmer at Codeforces </h3>
-<h3> 🤖 I’m currently reading _The Modern Approach: Russell & Norvig_ </h3>
-<h3> 😊 Pursuing computer engineering to do something _of actual worth_ </h3>
+<h3> 🤖 I’m currently reading <i>The Modern Approach: Russell & Norvig</i> </h3>
+<h3> 😊 Pursuing computer engineering to do <i>something of actual worth</i> </h3>
 <h3> 📫 How to reach me: +91-9193560650</h3>
 <h3> ⚡ Fun fact: While I'm not coding. I'm.... well, not coding!</h3>
 
