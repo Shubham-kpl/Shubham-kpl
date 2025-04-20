@@ -8,10 +8,8 @@
   <img src="https://komarev.com/ghpvc/?username=Shubham-kpl&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
-<h3> 😎 Kandpal Ji </h3>
-<h3> 🌱 Competitive programmer at Codeforces </h3>
-<h3> 🤖 I’m currently reading <i>The Modern Approach: Russell & Norvig</i> </h3>
-<h3> 😊 Pursuing computer engineering to do <i>something of actual worth</i> </h3>
+
+<h3> 🤖 Competitive Programmer and Web Developer </h3>
 <h3> 🤙 Reach me at: <i>codewithsk27@gmail.com</i></h3>
 
  <hr/>
